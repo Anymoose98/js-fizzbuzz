@@ -12,3 +12,11 @@ Consigli del giorno:
 2. Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
+
+1. Creare numeri da 1 - 100
+2. Multipli di 3 stampare Fizz
+    2.1 se diviso per 3 dà resto 0
+3. Multipli di 5 stampare Buzz
+    3.1 se diviso per 5 dà resto 0
+4. Multipli sia di 3 che di 5 FizzBuzz
+
